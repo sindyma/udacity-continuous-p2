@@ -25,16 +25,6 @@ Before running the Jupyter Notebook, ensure all requirements are installed. To d
 
 Open Continuous_Control_20_Agents.ipynb in the root directory. This Jupyter Notebook uses an actor-critic algorithm to train 20 agents simultaneously.
 
-# Troubleshooting
-If you aren't able to get started, see if any of the following describe your situation:
-* Python version
-This repo has been developed with python 3.7. Python 2 users may need to switch their kernel and ensure all dependencies have been installed for python 3.7
-* Dependencies
-You may need to install dependencies:
-* unity-ml
-* numpy
-* torch
-* matplotlib
 
 # The environment and success criteria
 * The state space in this environment has 33 dimensions: position, rotation, velocity, and angular velocities of the two arm Rigidbodies.
